@@ -48,7 +48,7 @@ $total=0;
 
       <form action="search" class="navbar-form navbar-left " style="margin-top:20px">
         <div class="form-group">
-          <input type="text"  name="query" class="form-control"style="width:500px" placeholder="Search_Location">
+          <input type="text"  name="query" class="form-control"style="width:500px" placeholder="Search_Location_Date_Name">
         </div>
         <button type="submit" class="btn btn-default">Search</button>
       </form>
